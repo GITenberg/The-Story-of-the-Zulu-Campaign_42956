@@ -1,0 +1,29 @@
+_repo: The-Story-of-the-Zulu-Campaign_42956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ashe, Waller
+    gutenberg_agent_id: '41947'
+    url: http://www.gutenberg.org/2009/agents/41947
+  - agent_name: Edgell, Edmund Verney Wyatt
+    alias: Wyatt-Edgell, E. V.
+    gutenberg_agent_id: '41948'
+    url: http://www.gutenberg.org/2009/agents/41948
+description: ''
+gutenberg_issued: '2013-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42956'
+  lccn: sd19000033
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zululand (South Africa) -- History'
+- !lcc 'DT'
+title: The Story of the Zulu Campaign
+url: http://www.gutenberg.org/ebooks/42956
